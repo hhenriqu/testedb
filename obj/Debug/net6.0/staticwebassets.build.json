@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "Y+17mJi530cftFZnq8px4mq5DaaOnfENHUORONRmC00=",
+  "Source": "testebd",
+  "BasePath": "_content/testebd",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "testebd\\wwwroot",
+      "Source": "testebd",
+      "ContentRoot": "X:\\coder_workspace\\PEOPLE INTERACTIVE\\testebd\\wwwroot\\",
+      "BasePath": "_content/testebd",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "X:\\coder_workspace\\PEOPLE INTERACTIVE\\testebd\\wwwroot\\.placeholder",
+      "SourceId": "testebd",
+      "SourceType": "Discovered",
+      "ContentRoot": "X:\\coder_workspace\\PEOPLE INTERACTIVE\\testebd\\wwwroot\\",
+      "BasePath": "_content/testebd",
+      "RelativePath": ".placeholder",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\.placeholder"
+    }
+  ]
+}
